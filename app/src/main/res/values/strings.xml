@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ScreenTransition</string>
+    <string name="next">次の画面へ</string>
 </resources>
